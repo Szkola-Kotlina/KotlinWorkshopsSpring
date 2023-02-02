@@ -1,0 +1,856 @@
+{
+  "records": [
+    {
+      "id": "rec1YwNzTWXUAS5Vi",
+      "createdTime": "2022-05-15T15:54:31.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://olaqnysz.blogspot.com/",
+        "Nazwa": "Ola Kunysz",
+        "Tematyka": [
+          "General"
+        ],
+        "Autor": "Ola Kunysz",
+        "Created": "2022-05-15T15:54:31.000Z",
+        "Last Modified": "2022-05-15T16:02:49.000Z"
+      }
+    },
+    {
+      "id": "rec1lPWADut6zl7EC",
+      "createdTime": "2022-05-17T20:49:36.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Dodatkowe informacje": "algorytmika, teoria informatyki",
+        "Approved": true,
+        "WWW": "https://swistak.codes/",
+        "Nazwa": "świstak.codes",
+        "RSS": "https://swistak.codes/rss",
+        "Tematyka": [
+          "General",
+          "Algorytmika",
+          "Teoria informatyki"
+        ],
+        "Autor": "Tomek Świstak",
+        "Created": "2022-05-17T20:49:36.000Z",
+        "Last Modified": "2022-08-10T10:32:03.000Z"
+      }
+    },
+    {
+      "id": "rec3Uo4IQ68HhHSFT",
+      "createdTime": "2022-05-17T11:57:03.000Z",
+      "fields": {
+        "Typ": [
+          "Blog",
+          "Newsletter"
+        ],
+        "Dodatkowe informacje": "uxowy.dev to przede wszystkim newsletter",
+        "Approved": true,
+        "WWW": "https://uxowy.dev/",
+        "Nazwa": "uxowy.dev - developer musi znać podstawy UI/UX",
+        "RSS": "https://uxowy.dev/email/rss/  + https://uxowy.dev/blog/rss/",
+        "Tematyka": [
+          "UX",
+          "Frontend"
+        ],
+        "Autor": "Mikołaj Waśkowski",
+        "Created": "2022-05-17T11:57:03.000Z",
+        "Last Modified": "2022-05-18T18:20:27.000Z"
+      }
+    },
+    {
+      "id": "rec4fV92Vr6KYddpE",
+      "createdTime": "2022-08-11T11:27:15.000Z",
+      "fields": {
+        "Typ": [
+          "Blog",
+          "Vlog",
+          "Newsletter"
+        ],
+        "Dodatkowe informacje": "Blog i video o rozwoju programistycznym",
+        "WWW": "https://devspeaker.pl",
+        "Nazwa": "DevSpeaker.pl",
+        "RSS": "https://devspeaker.pl/feed",
+        "Tematyka": [
+          "Soft skills",
+          "General"
+        ],
+        "Autor": "Jarek Michalik",
+        "Created": "2022-08-11T11:27:15.000Z",
+        "Last Modified": "2022-08-11T11:30:25.000Z"
+      }
+    },
+    {
+      "id": "recAF179aw25JT3oL",
+      "createdTime": "2022-05-15T15:52:41.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://devwords.pl/",
+        "Nazwa": "DevWords",
+        "Tematyka": [
+          "JVM"
+        ],
+        "Autor": "Iwona Adamkiewicz",
+        "Created": "2022-05-15T15:52:41.000Z",
+        "Last Modified": "2022-05-15T15:53:20.000Z"
+      }
+    },
+    {
+      "id": "recAMNGfLnQo80K51",
+      "createdTime": "2022-05-15T15:46:35.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://blog.pchudzik.com/",
+        "Nazwa": "tech_giberrish",
+        "RSS": "https://blog.pchudzik.com/index.xml",
+        "Tematyka": [
+          "JVM",
+          "Python",
+          "Backend"
+        ],
+        "Autor": "Paweł Chudzik",
+        "Created": "2022-05-15T15:46:35.000Z",
+        "Last Modified": "2022-08-10T10:19:00.000Z"
+      }
+    },
+    {
+      "id": "recAxAXU8ndvzKgq8",
+      "createdTime": "2022-05-15T15:43:39.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://bmwieczorek.wordpress.com/",
+        "Nazwa": "Bartosz Wieczorek's blog",
+        "RSS": "https://bmwieczorek.wordpress.com/feed/",
+        "Tematyka": [
+          "JVM",
+          "Backend"
+        ],
+        "Autor": "Bartosz Wieczorek",
+        "Created": "2022-05-15T15:43:39.000Z",
+        "Last Modified": "2022-08-10T10:18:01.000Z"
+      }
+    },
+    {
+      "id": "recBCKRZf4z27nQZq",
+      "createdTime": "2022-05-15T15:42:43.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://kotlintesting.com",
+        "Nazwa": "KotlinTesting",
+        "RSS": "https://kotlintesting.com/rss",
+        "Tematyka": [
+          "JVM",
+          "Backend",
+          "Android"
+        ],
+        "Autor": "Jarek Michalik",
+        "Created": "2022-05-15T15:42:43.000Z",
+        "Last Modified": "2022-08-11T11:28:30.000Z"
+      }
+    },
+    {
+      "id": "recBTB4vsLDkYmoFj",
+      "createdTime": "2022-07-20T19:07:12.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://wswiecieit.dev/",
+        "Nazwa": "W świecie IT",
+        "RSS": "https://wswiecieit.dev/feed/",
+        "Tematyka": [
+          "Backend",
+          "PHP"
+        ],
+        "Autor": "Monika Młodzik",
+        "Created": "2022-07-20T19:07:12.000Z",
+        "Last Modified": "2022-08-10T10:34:44.000Z"
+      }
+    },
+    {
+      "id": "recBUgQTbBpfoCdxE",
+      "createdTime": "2022-05-17T04:39:55.000Z",
+      "fields": {
+        "Typ": [
+          "Podcast"
+        ],
+        "Dodatkowe informacje": "rekrutacja, programowanie, kariera, soft skills",
+        "Approved": true,
+        "WWW": "https://porozmawiajmyoit.pl/",
+        "Nazwa": "Porozmawiajmy o IT",
+        "RSS": "https://feeds.buzzsprout.com/103493.rss",
+        "Tematyka": [
+          "Frontend",
+          "Backend",
+          "General"
+        ],
+        "Autor": "Krzysztof Kempiński",
+        "Created": "2022-05-17T04:39:55.000Z",
+        "Last Modified": "2022-05-17T16:47:05.000Z"
+      }
+    },
+    {
+      "id": "recEndrPWSQ76Vev4",
+      "createdTime": "2022-05-15T15:51:26.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://programistanaswoim.pl/",
+        "Nazwa": "Programista Na Swoim",
+        "RSS": "https://programistanaswoim.pl/feed/",
+        "Tematyka": [
+          "General"
+        ],
+        "Autor": "Piotr Prądzyński",
+        "Created": "2022-05-15T15:51:26.000Z",
+        "Last Modified": "2022-08-10T10:22:59.000Z"
+      }
+    },
+    {
+      "id": "recEtZeMKKxf6wm5H",
+      "createdTime": "2022-08-26T07:14:50.000Z",
+      "fields": {
+        "Typ": [
+          "Blog",
+          "Vlog"
+        ],
+        "Dodatkowe informacje": "analiza, architektura, cloud computing",
+        "Approved": true,
+        "WWW": "https://www.nietylkoprogramowanie.pl",
+        "Nazwa": "Nie tylko programowanie",
+        "RSS": "https://www.nietylkoprogramowanie.pl/feed/",
+        "Tematyka": [
+          "General",
+          "Architektura",
+          "Cloud computing"
+        ],
+        "Autor": "Tomasz Trymerski",
+        "Created": "2022-08-26T07:14:50.000Z",
+        "Last Modified": "2022-08-27T07:48:57.000Z"
+      }
+    },
+    {
+      "id": "recFqIy2G0J9O3CMq",
+      "createdTime": "2022-05-21T06:15:46.000Z",
+      "fields": {
+        "Typ": [
+          "Blog",
+          "Newsletter"
+        ],
+        "Dodatkowe informacje": "iOS; Mobile",
+        "Approved": true,
+        "WWW": "https://cowmobile.pl/",
+        "Nazwa": "Co w mobile?",
+        "Tematyka": [
+          "Android",
+          "iOS",
+          "Mobile"
+        ],
+        "Autor": "Aleksander Popko",
+        "Created": "2022-05-21T06:15:46.000Z",
+        "Last Modified": "2022-05-21T07:56:39.000Z"
+      }
+    },
+    {
+      "id": "recGBCuaSRDDL8PLx",
+      "createdTime": "2022-05-15T15:44:44.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://devcezz.pl/",
+        "Nazwa": "DevCezz.pl",
+        "RSS": "https://devcezz.pl/feed/",
+        "Autor": "Cezary Sanecki",
+        "Created": "2022-05-15T15:44:44.000Z",
+        "Last Modified": "2022-08-10T10:18:13.000Z"
+      }
+    },
+    {
+      "id": "recHeI2bVdol9yIl2",
+      "createdTime": "2022-07-31T18:35:39.000Z",
+      "fields": {
+        "Typ": [
+          "Newsletter"
+        ],
+        "Approved": true,
+        "WWW": "https://itswebdev.com",
+        "Nazwa": "itswebdev",
+        "Tematyka": [
+          "Frontend",
+          "Blockchain",
+          "Backend"
+        ],
+        "Autor": "Paweł Marszalec",
+        "Created": "2022-07-31T18:35:39.000Z",
+        "Last Modified": "2022-08-01T10:13:32.000Z"
+      }
+    },
+    {
+      "id": "recK84enjkVCF88Tg",
+      "createdTime": "2022-08-11T11:04:19.000Z",
+      "fields": {
+        "Typ": [
+          "Blog",
+          "Newsletter"
+        ],
+        "Approved": true,
+        "WWW": "https://devspeaker.pl/",
+        "Nazwa": "DevSpeaker",
+        "RSS": "https://devspeaker.pl/feed/",
+        "Tematyka": [
+          "General",
+          "Soft skills"
+        ],
+        "Autor": "Jarek Michalik",
+        "Created": "2022-08-11T11:04:19.000Z",
+        "Last Modified": "2022-08-11T11:05:08.000Z"
+      }
+    },
+    {
+      "id": "recMMefN7F2k9K9Af",
+      "createdTime": "2022-07-26T19:06:50.000Z",
+      "fields": {
+        "Typ": [
+          "Newsletter"
+        ],
+        "Dodatkowe informacje": "Android, Kotlin",
+        "Approved": true,
+        "WWW": "https://nowoczesnyandroid.pl/",
+        "Nazwa": "Nowoczesny Android",
+        "Tematyka": [
+          "Android",
+          "Mobile",
+          "JVM"
+        ],
+        "Autor": "Mateusz Teteruk",
+        "Created": "2022-07-26T19:06:50.000Z",
+        "Last Modified": "2022-08-01T10:13:30.000Z"
+      }
+    },
+    {
+      "id": "recNIcE3maA43J5XO",
+      "createdTime": "2022-08-23T07:36:09.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Dodatkowe informacje": "Ruby, Ruby on Rails",
+        "Approved": true,
+        "WWW": "https://grubykodzi.pl",
+        "Nazwa": "GrubyKodzi",
+        "Tematyka": [
+          "Backend",
+          "Algorytmika",
+          "Mobile",
+          "Soft skills",
+          "Ruby",
+          "Ruby on Rails"
+        ],
+        "Autor": "Rafał Piekara",
+        "Created": "2022-08-23T07:36:09.000Z",
+        "Last Modified": "2022-08-23T07:47:46.000Z"
+      }
+    },
+    {
+      "id": "recRkc4na6BdWynsL",
+      "createdTime": "2022-08-26T07:59:33.000Z",
+      "fields": {
+        "Typ": [
+          "Vlog"
+        ],
+        "Dodatkowe informacje": "architektura, domain-driven design",
+        "Approved": true,
+        "WWW": "https://www.youtube.com/c/MariuszGil",
+        "Nazwa": "Better Software Design",
+        "Tematyka": [
+          "Backend",
+          "Architektura",
+          "Domain-Driven-Design"
+        ],
+        "Autor": "Mariusz Gil",
+        "Created": "2022-08-26T07:59:33.000Z",
+        "Last Modified": "2022-08-27T07:50:00.000Z"
+      }
+    },
+    {
+      "id": "recTy9ChJSGGS9SbU",
+      "createdTime": "2022-06-20T22:56:34.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://szkolajenkinsa.pl",
+        "Nazwa": "Szkoła Jenkinsa",
+        "RSS": "https://szkolajenkinsa.pl/feed/",
+        "Tematyka": [
+          "DevOps",
+          "Tooling"
+        ],
+        "Autor": "Dariusz Grabowski",
+        "Created": "2022-06-20T22:56:34.000Z",
+        "Last Modified": "2022-08-10T10:34:22.000Z"
+      }
+    },
+    {
+      "id": "recUdfVIbmpBogJqz",
+      "createdTime": "2022-05-18T12:26:40.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://jcubic.pl/",
+        "Nazwa": "Głównie JavaScript",
+        "RSS": "https://jcubic.pl/feed.xml",
+        "Tematyka": [
+          "Frontend",
+          "Python",
+          "Security",
+          "PHP"
+        ],
+        "Autor": "Jakub T. Jankiewicz",
+        "Created": "2022-05-18T12:26:40.000Z",
+        "Last Modified": "2022-05-18T18:20:18.000Z"
+      }
+    },
+    {
+      "id": "recV51QuntFzOGOxF",
+      "createdTime": "2022-08-23T08:28:40.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://ideaprogramowania.pl/",
+        "Nazwa": "Idea programowania",
+        "Tematyka": [
+          "Backend",
+          "PHP"
+        ],
+        "Autor": "Adam Michna",
+        "Created": "2022-08-23T08:28:40.000Z",
+        "Last Modified": "2022-08-23T08:43:42.000Z"
+      }
+    },
+    {
+      "id": "recWLsEqrDV06AOp6",
+      "createdTime": "2022-05-15T15:47:21.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://letstalkaboutjava.blogspot.com/",
+        "Nazwa": "let's talk about Java",
+        "Tematyka": [
+          "JVM"
+        ],
+        "Autor": "Sebastian Malaca",
+        "Created": "2022-05-15T15:47:21.000Z",
+        "Last Modified": "2022-05-15T16:02:02.000Z"
+      }
+    },
+    {
+      "id": "recY0QhwgRtoZW8QD",
+      "createdTime": "2022-05-19T10:29:46.000Z",
+      "fields": {
+        "Typ": [
+          "Blog",
+          "Newsletter"
+        ],
+        "Dodatkowe informacje": "Kotlin, lub coś o Multiplatform 😁",
+        "WWW": "https://akjaw.com/",
+        "Nazwa": "Akjaw",
+        "RSS": "https://akjaw.com/rss/",
+        "Tematyka": [
+          "Android",
+          "JVM",
+          "Inne (opisz w informacjach dodatkowych)"
+        ],
+        "Autor": "Aleksander Jaworski ",
+        "Created": "2022-05-19T10:29:46.000Z",
+        "Last Modified": "2022-08-10T10:33:15.000Z"
+      }
+    },
+    {
+      "id": "recZUr17kxXh1rAvM",
+      "createdTime": "2022-05-15T15:50:58.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://sztukakodu.pl/",
+        "Nazwa": "Sztuka Kodu",
+        "RSS": "https://sztukakodu.pl/feed/",
+        "Tematyka": [
+          "JVM"
+        ],
+        "Autor": "Dariusz Mydlarz",
+        "Created": "2022-05-15T15:50:58.000Z",
+        "Last Modified": "2022-08-10T10:22:47.000Z"
+      }
+    },
+    {
+      "id": "recZrHtvZtsdUnHAt",
+      "createdTime": "2022-05-17T19:52:53.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Dodatkowe informacje": "Sieci komputerowe",
+        "Approved": true,
+        "WWW": "https://innasiec.pl",
+        "Nazwa": "Inna Sieć",
+        "Tematyka": [
+          "Sieci komputerowe"
+        ],
+        "Autor": "Rafał Rudewicz",
+        "Created": "2022-05-17T19:52:53.000Z",
+        "Last Modified": "2022-05-18T18:19:43.000Z"
+      }
+    },
+    {
+      "id": "recZvvUr9zCpDFd6m",
+      "createdTime": "2022-05-31T11:55:06.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://programistaodzera.pl/",
+        "Nazwa": "Programista od zera",
+        "RSS": "https://programistaodzera.pl/feed/",
+        "Tematyka": [
+          "General"
+        ],
+        "Autor": "Radosław Grzesiak",
+        "Created": "2022-05-31T11:55:06.000Z",
+        "Last Modified": "2022-08-10T10:33:58.000Z"
+      }
+    },
+    {
+      "id": "reccxEG8wyK5RtFjA",
+      "createdTime": "2022-05-17T10:49:32.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Dodatkowe informacje": "kryptowaluty, blockchain, finanse",
+        "Approved": true,
+        "WWW": "https://grzegorzpawlowski.pl",
+        "Nazwa": "Grzegorzpawlowski.pl",
+        "RSS": "https://grzegorzpawlowski.pl/feed/",
+        "Tematyka": [
+          "Backend",
+          "Frontend",
+          ".NET",
+          "General",
+          "Security",
+          "Blockchain"
+        ],
+        "Autor": "Grzegorz Pawłowski",
+        "Created": "2022-05-17T10:49:32.000Z",
+        "Last Modified": "2022-08-11T11:01:18.000Z"
+      }
+    },
+    {
+      "id": "recfL4x7ZF5s5CQnE",
+      "createdTime": "2022-08-26T21:43:00.000Z",
+      "fields": {
+        "Typ": [
+          "Blog",
+          "Newsletter"
+        ],
+        "Approved": true,
+        "WWW": "https://uczymymaszyny.pl",
+        "Nazwa": "Uczymy Maszyny",
+        "Tematyka": [
+          "Data Science",
+          "Python",
+          "Machine Learning"
+        ],
+        "Autor": "Konrad Łyda",
+        "Created": "2022-08-26T21:43:00.000Z",
+        "Last Modified": "2022-08-27T07:53:52.000Z"
+      }
+    },
+    {
+      "id": "recfdvzbuBkVu4oY4",
+      "createdTime": "2022-05-20T08:36:02.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Dodatkowe informacje": "DevOps, narzędzia programistyczne",
+        "Approved": true,
+        "WWW": "https://homeverest.pl/",
+        "Nazwa": "homeverest",
+        "RSS": "https://homeverest.pl/feed/",
+        "Tematyka": [
+          "Frontend",
+          "Backend",
+          ".NET",
+          "General",
+          "Algorytmika",
+          "DevOps",
+          "Tooling"
+        ],
+        "Autor": "Mateusz Łysień",
+        "Created": "2022-05-20T08:36:02.000Z",
+        "Last Modified": "2022-08-10T10:33:41.000Z"
+      }
+    },
+    {
+      "id": "recin89wjACTZSNRX",
+      "createdTime": "2022-07-27T07:04:51.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://thecodeside.com",
+        "Nazwa": "TheCodeSide",
+        "RSS": "https://www.thecodeside.com/feed/",
+        "Tematyka": [
+          "Android",
+          "Mobile",
+          "Security"
+        ],
+        "Autor": "Artur Latoszewski",
+        "Created": "2022-07-27T07:04:51.000Z",
+        "Last Modified": "2022-08-10T10:35:14.000Z"
+      }
+    },
+    {
+      "id": "recj7dFVbZom6WGWe",
+      "createdTime": "2022-07-05T11:08:40.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://mateuszrus.pl",
+        "Nazwa": "Programowanie z pasją",
+        "RSS": "https://mateuszrus.pl/feed/",
+        "Tematyka": [
+          ".NET",
+          "General",
+          "Python",
+          "Teoria informatyki",
+          "Algorytmika",
+          "Blockchain"
+        ],
+        "Autor": "Mateusz Rus",
+        "Created": "2022-07-05T11:08:40.000Z",
+        "Last Modified": "2022-08-10T10:34:33.000Z"
+      }
+    },
+    {
+      "id": "recjUnY7thTa0oOLv",
+      "createdTime": "2022-08-26T07:58:02.000Z",
+      "fields": {
+        "Typ": [
+          "Podcast"
+        ],
+        "Dodatkowe informacje": "architektura, domain-driven design",
+        "Approved": true,
+        "WWW": "https://bettersoftwaredesign.pl",
+        "Nazwa": "Better Software Design",
+        "Tematyka": [
+          "Backend",
+          "Architektura",
+          "Domain-Driven-Design"
+        ],
+        "Autor": "Mariusz Gil",
+        "Created": "2022-08-26T07:58:02.000Z",
+        "Last Modified": "2022-08-27T07:49:43.000Z"
+      }
+    },
+    {
+      "id": "reclfoL9Dd5P8rriQ",
+      "createdTime": "2022-05-15T15:45:48.000Z",
+      "fields": {
+        "Typ": [
+          "Blog",
+          "Podcast"
+        ],
+        "Approved": true,
+        "WWW": "https://nullpointerexception.pl/",
+        "Nazwa": "NullPointerException.pl",
+        "RSS": "https://nullpointerexception.pl/feed/",
+        "Tematyka": [
+          "JVM"
+        ],
+        "Autor": "Mateusz Dąbrowski",
+        "Created": "2022-05-15T15:45:48.000Z",
+        "Last Modified": "2022-08-10T10:18:30.000Z"
+      }
+    },
+    {
+      "id": "recnUWQgDeFugqqkF",
+      "createdTime": "2022-05-15T15:49:05.000Z",
+      "fields": {
+        "Typ": [
+          "Blog",
+          "Podcast"
+        ],
+        "Approved": true,
+        "WWW": "https://nurkiewicz.com/",
+        "Nazwa": "Around IT in 256 seconds",
+        "RSS": "https://anchor.fm/s/155e7134/podcast/rss",
+        "Tematyka": [
+          "JVM"
+        ],
+        "Autor": "Tomasz Nurkiewicz",
+        "Created": "2022-05-15T15:49:05.000Z",
+        "Last Modified": "2022-08-10T10:22:33.000Z"
+      }
+    },
+    {
+      "id": "recq591whj6mAos3s",
+      "createdTime": "2022-05-15T15:56:15.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://akjaw.com/",
+        "Nazwa": "Akjaw",
+        "RSS": "https://akjaw.com/rss/",
+        "Tematyka": [
+          "JVM",
+          "Android"
+        ],
+        "Autor": "Aleksander Jaworski",
+        "Created": "2022-05-15T15:56:15.000Z",
+        "Last Modified": "2022-08-10T10:28:48.000Z"
+      }
+    },
+    {
+      "id": "recqjZTdLRhDe19Ru",
+      "createdTime": "2022-05-16T13:25:02.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Dodatkowe informacje": "czasem życiówka, wszystko i nic",
+        "Approved": true,
+        "WWW": "https://try-catch.pl",
+        "Nazwa": "Try-Catch",
+        "RSS": "https://try-catch.pl/feed/",
+        "Tematyka": [
+          "Frontend",
+          "Backend",
+          "General",
+          "PHP"
+        ],
+        "Autor": "Przemysław Lazarek",
+        "Created": "2022-05-16T13:25:02.000Z",
+        "Last Modified": "2022-08-11T11:01:13.000Z"
+      }
+    },
+    {
+      "id": "rectsOw4rUif27INU",
+      "createdTime": "2022-08-02T12:51:35.000Z",
+      "fields": {
+        "Typ": [
+          "Podcast"
+        ],
+        "Approved": true,
+        "WWW": "https://open.spotify.com/show/1xrG8BF4Niv5uIzHvIn79q",
+        "Nazwa": "BrightDevTalks",
+        "Tematyka": [
+          "Backend",
+          "General",
+          "Blockchain"
+        ],
+        "Created": "2022-08-02T12:51:35.000Z",
+        "Last Modified": "2022-08-11T11:28:26.000Z"
+      }
+    },
+    {
+      "id": "recwvqjTfYEEO5ohZ",
+      "createdTime": "2022-05-16T09:08:40.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Dodatkowe informacje": "Proponuję dodatkowy tag: ML. W sumie migruje na dniach domene na radekbialowas.com bo samo DS to jestem z tematów u mnie i sie rozjeżdza z nazwą, plus chce promować markę osobistą. Po migracji wyślę prośbę o podmianie lunku.",
+        "Approved": true,
+        "WWW": "https://datasciencein.pl/",
+        "Nazwa": "Data Science in PL",
+        "RSS": "https://radekbialowas.pl/feed/",
+        "Tematyka": [
+          "Data Science",
+          "Backend",
+          "Python",
+          "Machine Learning"
+        ],
+        "Autor": "Radek Białowąs",
+        "Created": "2022-05-16T09:08:40.000Z",
+        "Last Modified": "2022-08-10T10:29:05.000Z"
+      }
+    },
+    {
+      "id": "recyFE4ZKTT8cOaXr",
+      "createdTime": "2022-05-17T12:05:06.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://pogromcykodu.pl/",
+        "Nazwa": "Pogromcy Kodu",
+        "RSS": "https://pogromcykodu.pl/feed/",
+        "Tematyka": [
+          "Backend",
+          "Python"
+        ],
+        "Created": "2022-05-17T12:05:06.000Z",
+        "Last Modified": "2022-08-10T10:29:52.000Z"
+      }
+    },
+    {
+      "id": "reczN31yn07hA2MwV",
+      "createdTime": "2022-05-17T21:58:53.000Z",
+      "fields": {
+        "Typ": [
+          "Blog"
+        ],
+        "Approved": true,
+        "WWW": "https://www.bolimnieweb.pl/",
+        "Nazwa": "BoliMnieWeb",
+        "Tematyka": [
+          "Frontend",
+          "Backend"
+        ],
+        "Autor": "BoliMnieWeb",
+        "Created": "2022-05-17T21:58:53.000Z",
+        "Last Modified": "2022-08-11T11:15:18.000Z"
+      }
+    }
+  ]
+}
