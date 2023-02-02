@@ -12,25 +12,7 @@ class BlogEntry(
 
 class JsonMapper {
   fun map(json: JsonNode): List<BlogEntry>{
-    return json.get("records")
-      .map {
-        val fields = it.get("fields")
-        val name = fields.get("Nazwa").asText()
-        val type: List<String> = fields.get("Typ").map { it.asText() }
-        val url = fields.get("WWW").asText()
-        val category = getCategory(fields)
-        val author = if(fields.get("Autor")!=null) fields.get("Autor").asText() else ""
-
-        BlogEntry(name, url, author, type, category)
-      }
-  }
-
-  private fun getCategory(fields: JsonNode): List<String> {
-    return if(fields.get("Tematyka") != null){
-      fields.get("Tematyka").map { it.asText() }
-    } else {
-      emptyList()
-    }
+    return emptyList()
   }
 }
 

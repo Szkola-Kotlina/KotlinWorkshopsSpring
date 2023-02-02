@@ -15,9 +15,7 @@ public class DataService {
   @Value("classpath:data.json")
   Resource resourceFile;
 
-  JsonMapper mapper = new JsonMapper();
-
-  private JsonNode readResourceData() {
+  public JsonNode readResourceData() {
     JsonNode json;
     try {
       json = new ObjectMapper().readTree(resourceFile.getFile());
@@ -25,9 +23,5 @@ public class DataService {
       json = TextNode.valueOf("");
     }
     return json;
-  }
-
-  public List<BlogEntry> getAll(){
-    return mapper.map(readResourceData());
   }
 }
